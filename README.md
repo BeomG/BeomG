@@ -1,21 +1,9 @@
-## 안녕하세요:)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeomG%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
 
-1. 자기소개 
-- 안녕하세요싸피 9기 교육생 김범규입니다.
-   
-   
-
-2. 취미
-- 축구 풋살
-
-- 영화시청
-
-- 게임
+![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=250&section=header&text=Hi!%20I'm%20BeomG&fontColor=FFFFFF&fontSize=70)
+# 📚 Tech Stack📚
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 
-
-<img src="README_assets/84363b5332d1333373f1506aa0ff6773fe65b896.jpg" title="" alt="image.jpg" width="274">
-
-
-
-감사합니다.
+# 📖 Study 📖
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
